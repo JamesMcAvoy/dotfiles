@@ -1,18 +1,23 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Base16 Color Schemes",
-		"CSS Snippets",
-		"Git",
-		"HTML Snippets",
-		"Package Control",
-		"PHPIntel",
-		"Predawn",
-		"Pretty JSON",
-		"Pretty Ruby"
-	]
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "1337 Color Scheme",
+        "CSS Snippets",
+        "Emmet",
+        "Git",
+        "GitGutter",
+        "HTML Snippets",
+        "Markdown Preview",
+        "Package Control",
+        "PHPIntel",
+        "Predawn",
+        "Pretty JSON",
+        "Pretty Ruby",
+        "RailsBase16 Color Schemes",
+        "TerminalView"
+    ]
 }

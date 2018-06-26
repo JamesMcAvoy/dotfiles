@@ -1,6 +1,7 @@
-# sublime-text-preferences
+# Dotfiles
 
-My Sublime Text user preferences. Settings on Sublime Text 3.
+Here you can find my dotfiles and Sublime Text user preferences.
+I usee Sublime Text 3.
 
 ### Launch Sublime Text from CLI
 
